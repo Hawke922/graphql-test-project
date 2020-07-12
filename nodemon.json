@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "hawke922",
+        "MONGO_PASSWORD": "OGHawke922",
+        "MONGO_DB": "graphql-test-project-dev"
+    }
+}
